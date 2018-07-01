@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#448aff</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="titleBadgeText">#adafb1</color>
+    <color name="gray_100">#F5F5F5</color>
+    <color name="blue_50">#E3F2FD</color>
+    <color name="red_800">#C62828</color>
+    <color name="white">#d0c1d7</color>
+    <color name="colorPrimary">#4C516D</color>
+    <color name="colorPrimaryDark">#423752</color>
+    <color name="colorAccent">#800080</color>
+    <color name="gen_white">#FFFFFF</color>
+</resources>

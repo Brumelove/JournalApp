@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Journal</string>
+    <string name="welocome_to_my_journal">WELOCOME TO MY JOURNAL</string>
+    <string name="journal">TODO</string>
+    <string name="sign_out">Sign out</string>
+    <string name="enter_pin_pin_is_test123">Enter PIN (pin is: Test123)</string>
+    <string name="login">Login</string>
+    <string name="username_user_is_test">Username(user is: Test)</string>
+    <string name="quick_login">Quick Login</string>
+    <string name="todo">TODO</string>
+    <string name="add_an_entry">ADD AN ENTRY</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">Cancel</string>
+    <string name="remember_me_in">Remember me in</string>
+    <string name="status">Status :</string>
+    <string name="movie_name">Movie Name</string>
+    <string-array name="time">
+        <item>None</item>
+        <item>Minutes</item>
+        <item>Hours</item>
+        <item>Days</item>
+    </string-array>
+</resources>
