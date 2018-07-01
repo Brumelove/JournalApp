@@ -15,6 +15,6 @@
     <color name="white">#d0c1d7</color>
     <color name="colorPrimary">#4C516D</color>
     <color name="colorPrimaryDark">#423752</color>
-    <color name="colorAccent">#800080</color>
+    <color name="colorAccent">#fae4fa</color>
     <color name="gen_white">#FFFFFF</color>
 </resources>

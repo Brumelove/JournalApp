@@ -25,7 +25,7 @@
         android:id="@+id/recycler_view_s"
 
         android:background="@color/colorAccent">
-       <!-- app:layout_behavior="com.todo.deepmetha.todo.utils.ScrollAwareFABBehavior"-->
+       <!-- app:layout_behavior="com.todo.deepmetha.tcom.journal.app.utilstils.ScrollAwareFABBehavior"-->
     </android.support.v7.widget.RecyclerView>
     </android.support.v4.widget.SwipeRefreshLayout>
 
